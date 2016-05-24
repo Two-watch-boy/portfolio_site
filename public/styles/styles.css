@@ -1,0 +1,28 @@
+.logo{
+  width: 20%;
+  margin-top: 2%;
+}
+.name {
+  float: right;
+  margin-top: -7%;
+  margin-right: 50%;
+}
+.navbar{
+
+}
+.view{
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.macbook{
+  width: 65%;
+}
+.iphone{
+  width: 16%;
+}
+li{
+  display: inline;
+  marign: 0 auto;
+}
+.contactImage{
+  width: 50px;
+}
