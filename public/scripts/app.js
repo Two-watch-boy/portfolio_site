@@ -9,7 +9,7 @@ config.$inject = ['$routeProvider'];
 function config(   $routeProvider   ) {
   $routeProvider
   .when('/home', {
-    templateUrl: '/public/templates/home.html',
+    templateUrl: '/public/templates/land.html',
     // controller: 'AboutController',
     controllerAs: 'homeCtrl'
   })
@@ -29,5 +29,5 @@ function config(   $routeProvider   ) {
     controllerAs: 'contactCtrl'
   })
 
-  .otherwise({redirectTo: '/home'});
+  .otherwise({redirectTo: '/land'});
 }
