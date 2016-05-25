@@ -21,7 +21,9 @@
 }
 li{
   display: inline;
-  marign: 0 auto;
+}
+.contactMe{
+  text-align: center;
 }
 .contactImage{
   width: 50px;
