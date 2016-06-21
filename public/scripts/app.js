@@ -29,5 +29,5 @@ function config(   $routeProvider   ) {
     controllerAs: 'contactCtrl'
   })
 
-  .otherwise({redirectTo: '/land'});
+  .otherwise({redirectTo: '/home'});
 }
