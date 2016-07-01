@@ -28,10 +28,6 @@ li{
 .contactImage{
   width: 50px;
 }
-.profilePicture{
-  width: 70%;
-  margin: 15px 0;
-}
 .contactIcon{
   margin-top: 15px;
 }
@@ -40,6 +36,10 @@ li{
   margin-left: 40%;
   width: 20%;
   text-align: center;
+}
+.profilePicture{
+  width: 70%;
+  margin: 15px 0;
 }
 .new{
   height: auto;
