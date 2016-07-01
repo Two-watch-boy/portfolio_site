@@ -32,3 +32,12 @@ li{
   width: 70%;
   margin: 15px 0;
 }
+.contactIcon{
+  display:inline;
+}
+.contacts {
+  display: block;
+  margin-left: 40%;
+  width: 20%;
+  text-align: center;
+}
